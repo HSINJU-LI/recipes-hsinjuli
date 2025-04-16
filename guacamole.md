@@ -1,8 +1,8 @@
 # Guacamole
 ## Ingredients
-* avocado (1.35)
+* avocado (1.35)D
 * lime (0.965)
-* salt (52)
+* pepper (2)
 ## Instructions
 1) Cut avocado
 2) Add lime
